@@ -1,3 +1,12 @@
+/*
+Print the pattern
+   A   
+  ABA  
+ ABCBA 
+ABCDCBA
+*/
+
+
 #include<stdio.h>
 
 int main(){

@@ -1,3 +1,17 @@
+/*
+Print the star pattern
+
+*   
+**  
+*** 
+****
+*** 
+**  
+* 
+
+*/
+
+
 #include<stdio.h>
 
 int main(){
